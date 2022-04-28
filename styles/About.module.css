@@ -1,0 +1,12 @@
+.box {
+  display: flex;
+  gap: 2em;
+  align-items: center;
+  justify-content: center;
+}
+
+.box p {
+  max-width: 420px;
+  line-height: 1.5em;
+  font-size: 1.2em;
+}
